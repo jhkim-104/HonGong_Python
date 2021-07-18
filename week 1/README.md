@@ -58,7 +58,11 @@
         ```
      * a는 상수이고, 1은 리터럴이다.
 
-#### 참조 자료
+
+### 실습 자료
+* [실습 진행 자료 Github(HonGong_Python)](https://github.com/jhkim-104/HonGong_Python)
+
+### 참조 자료
 * [UsefulToKnow - 바이너리와 바이트 코드란?(+ 기계어란?)](https://usefultoknow.tistory.com/entry/%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC%EC%99%80-%EB%B0%94%EC%9D%B4%ED%8A%B8-%EC%BD%94%EB%93%9C%EB%9E%80-%EA%B8%B0%EA%B3%84%EC%96%B4%EB%9E%80)
 * [제타위키 - 이스케이프 문자](https://zetawiki.com/wiki/%EC%9D%B4%EC%8A%A4%EC%BC%80%EC%9D%B4%ED%94%84_%EB%AC%B8%EC%9E%90)
 * [코딩팩토리 - [Language]컴파일러와 인터프리터란 무엇인가?](https://coding-factory.tistory.com/303)
