@@ -12,3 +12,4 @@
 * [3주차 실습](./week%203/README.md)
 * [4주차 실습](./week%204/README.md)
 * [5주차 실습](./week%205/README.md)
+* [6주차 실습](./week%206/README.md)
